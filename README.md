@@ -24,7 +24,7 @@ The project includes interactive dashboards for:
 ![Sales Dashboard](sales_dashboard.png)
 
 ### Customer Dashboard
-![Customer Dashboard](dashboards/customer_analysis.png)
+![Customer Dashboard](customer_analysis.png)
 
 ### Product Dashboard
 ![Product Dashboard](product_and_sales_performance.png)
